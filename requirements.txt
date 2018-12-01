@@ -1,0 +1,7 @@
+pytz==2018.4
+requests==2.20.0
+aiohttp==3.4.4
+Django==1.10.5
+typing==3.6.6
+gunicorn==19.8.1
+jdatetime==2.0.0
